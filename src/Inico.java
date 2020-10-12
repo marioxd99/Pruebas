@@ -1,8 +1,8 @@
 
 public class Inico {
 	
-  public static void main(String[]args) {
-	  
+  public static void main(String[]args) {	  
 	  System.out.println("Holaa");
+	  System.out.print("Hey");
   }
 }
