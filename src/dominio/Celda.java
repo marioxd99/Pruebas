@@ -8,7 +8,7 @@ import java.awt.Color;
  * construir� el laberinto
 */
 public class Celda {
-	public static final int TAMAÑO = 12; // Variable est�tica de tama�o en p�xels (alto y ancho)
+	public static final int TAMAÑO = 12; // Variable de tama�o en p�xels (alto y ancho)
 	
 	private int posX;
 	private int posY;
