@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Probando GIT</name>
+=======
+	<name>MiLaberinto</name>
+>>>>>>> refs/remotes/origin/HolaMundo2
 	<comment></comment>
 	<projects>
 	</projects>
