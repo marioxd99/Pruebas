@@ -5,7 +5,7 @@ import java.awt.Color;
 /* Nombre: Celda
  * Tipo: Clase
  * Funcion: Representación grafica de casillas o espacios en el array donde se
- * construira el 
+ * construira el laberinto
 */
 public class Celda {
 	public static final int TAMANO = 12; // Variable estatica de tamaño en pixels (alto y ancho)
