@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 1px;
+}
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Roboto;
+}
+
+.enca {
+    background: rgba(153, 98, 0, 1.5);
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 20px;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    position: fixed;
+}
+
+.wrapped {
+    width: 90%;
+    max-width: 1180px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.logo {
+    color: #fff;
+    font-size: 50px;
+    font-family: Berlin Sans FB;
+    line-height: 70px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+nav {
+    line-height: 40px;
+    float: right;
+}
+
+nav a {
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial Narrow;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+    -webkit-transition: all 500ms ease;
+}
+
+nav a:hover {
+    border-bottom: 5px solid #0075d9;
+}
+
+#tituloDatos {
+    text-align: center;
+}
